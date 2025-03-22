@@ -3,7 +3,7 @@ site_name: Hello APCSA
 # site_url: https://www.hello-algo.com/
 site_author: Leshui
 site_description: All you should know about AP CSA
-docs_dir: build/docs
+docs_dir: docs
 site_dir: site
 # Repository
 repo_name: lasfil/hello-algo
@@ -71,9 +71,6 @@ extra:
     - name: 简体中文
       link: /
       lang: zh
-    - name: English
-      link: /en/
-      lang: en
   generator: false
   status:
     new: 最近添加
